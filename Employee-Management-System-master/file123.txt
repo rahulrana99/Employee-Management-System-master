@@ -1,0 +1,7 @@
+Employee ID:123
+Employee Name     :rahul
+Father's Name     :abc
+Employee Contact  :bnm
+Email Information :nbvcxzasd@edfghj
+Employee position :cxcvb
+Employee Salary   :bnm,

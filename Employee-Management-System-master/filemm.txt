@@ -1,0 +1,8 @@
+
+Employee ID:nn
+Employee Name     :nn
+Father's Name     :nn
+Employee Contact  :nn'
+Email Information :nn
+Employee position :nn
+Employee Salary   :mnm'
